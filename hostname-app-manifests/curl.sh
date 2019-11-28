@@ -1,0 +1,1 @@
+while true; do sleep 1; curl ${1}; echo;done
